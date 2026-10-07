@@ -23,18 +23,6 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-## 🛠️ Important Links & Tools
-
-*Everything is for Free!*
-* **Datasets:** Access to the project dataset (csv files).
-* **SQL Server Express:** Lightweight server for hosting your SQL database.
-* **SQL Server Management Studio (SSMS):** GUI for managing and interacting with databases.
-* **Git Repository:** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-* **Draw.io:** Design data architecture, models, flows, and diagrams.
-* **Notion:** All-in-one tool for project management and organization.
-* [Notion Project Steps: Access to All Project Phases and Tasks.](#)
-
----
 
 ## 🚀 Project Requirements
 
@@ -62,7 +50,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-For more details, refer to `docs/requirements.md`.
 
 ---
 
@@ -109,6 +96,6 @@ data-warehouse-project/
 ├── README.md                 # Project overview and instructions
 ├── LICENSE                   # License information for the repository
 ├── .gitignore                # Files and directories to be ignored by Git
-└── requirements.txt          # Dependencies and requirements for the project
+
 ```
 
